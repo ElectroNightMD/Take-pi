@@ -56,7 +56,7 @@ body {
   align-items: center;
   border-radius: 10px;
   font-size: 14px;
-  color: white;
+  color: blue;
   background-color: green;
   transition: background-color 0.3s;
 }
